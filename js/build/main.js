@@ -51,21 +51,24 @@
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-	var Device = {
-	  show: function show() {
-	    alert("module Device is created sucessfully ");
-	  }
+	var device = {
+	  postNotification: function postNotification(eventName, params) {
+	    alert(eventName);
+	    var evt = new Event(eventName);
+	    evt.data = params;
+	    document.dispatchEvent(evt);
+	  },
+	  createButton: function createButton() {}
 	};
-
 	var meta = {
-	  Device: [{
+	  device: [{
 	    name: 'show',
 	    args: []
 	  }]
 	};
 
 	function init(weex) {
-	  weex.registerModule('Device', device, meta);
+	  weex.registerModule('device', device, meta);
 	}
 
 	exports.default = {

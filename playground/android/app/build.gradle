@@ -5,12 +5,11 @@ android {
     buildToolsVersion '26.0.2'
     defaultConfig {
         applicationId "org.weex.demo"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-
         ndk{
             abiFilters "x86"
             abiFilters "armeabi"

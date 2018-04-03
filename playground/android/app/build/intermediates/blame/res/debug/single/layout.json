@@ -148,6 +148,10 @@
         "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/src/main/res/layout/search_book_contents_list_item.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/capture_title_bar.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/capture_title_bar.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_alert_dialog_title_material.xml"
     },
@@ -202,6 +206,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_entrance_layout.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/layout/wxt_entrance_layout.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/activity_capture_my.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/activity_capture_my.xml"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -296,6 +304,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/dialog_loading.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/select_dialog_multichoice_material.xml"
     },
@@ -314,6 +326,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/fragment_capture.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/263b061acee964deaea05691e3f9e0ae/res/layout/fragment_capture.xml"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",

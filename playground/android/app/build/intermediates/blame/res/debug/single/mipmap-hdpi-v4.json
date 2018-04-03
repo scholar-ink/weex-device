@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/flashlight_off.png",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/flashlight_off.png"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/flashlight_on.png",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/mipmap-hdpi-v4/flashlight_on.png"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }

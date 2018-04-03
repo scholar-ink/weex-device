@@ -20,6 +20,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/notification_icon_background.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/progressbar.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/drawable/progressbar.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_ic_search_api_material.xml"
     },
@@ -76,6 +80,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/scan_image.png",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/drawable/scan_image.png"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_seekbar_track_material.xml"
     },
@@ -120,6 +128,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/bg_loading_dialog.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/drawable/bg_loading_dialog.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_item_background_holo_dark.xml"
     },
@@ -138,6 +150,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/scan_light.png",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/263b061acee964deaea05691e3f9e0ae/res/drawable/scan_light.png"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_ratingbar_indicator_material.xml",
@@ -166,6 +182,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/picture_back.png",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/drawable/picture_back.png"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable/abc_edit_text_material.xml",

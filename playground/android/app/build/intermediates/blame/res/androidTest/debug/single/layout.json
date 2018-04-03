@@ -28,6 +28,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/layout/design_text_input_password_icon.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/capture_title_bar.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/capture_title_bar.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/notification_template_media.xml"
     },
@@ -56,6 +60,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/fragment_capture.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/263b061acee964deaea05691e3f9e0ae/res/layout/fragment_capture.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_activity_chooser_view_list_item.xml"
     },
@@ -74,6 +82,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/dialog_loading.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/dialog_loading.xml"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/wxt_item_log.xml",
@@ -132,6 +144,10 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/layout/wxt_log_settngs.xml"
     },
     {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/camera.xml",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/263b061acee964deaea05691e3f9e0ae/res/layout/camera.xml"
+    },
+    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -142,6 +158,10 @@
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/design_layout_snackbar.xml",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/94c45cf88d9d5375810ac31a47505b05/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/activity_capture_my.xml",
+        "source": "/Users/zhouchao/vagrant/web/weex-plugin/device/android/library/build/intermediates/bundles/debug/res/layout/activity_capture_my.xml"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/layout/select_dialog_singlechoice_material.xml",

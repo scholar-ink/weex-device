@@ -3,7 +3,7 @@
     package="org.weex.plugin.device.test" >
 
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="15"
         android:targetSdkVersion="25" />
 
     <instrumentation
@@ -13,8 +13,17 @@
         android:label="Tests for org.weex.plugin.device.test"
         android:targetPackage="org.weex.plugin.device.test" />
 
-    <application android:debuggable="true" >
+    <application
+        android:allowBackup="true"
+        android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
+
+        <activity
+            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
 
         <receiver
             android:name="com.taobao.weex.WXGlobalEventReceiver"

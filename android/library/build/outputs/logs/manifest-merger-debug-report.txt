@@ -1,26 +1,42 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
-INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
+ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
 	package
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:2:11-43
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:3:11-43
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:2:5-51
 	android:versionCode
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
-		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-4:12
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:1-13:12
 		INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:5:22-63
+application
+ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:7:5-12:19
+activity#org.weex.plugin.device.CaptureMyActivity
+ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:8:9-11:55
+	android:windowSoftInputMode
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:11:13-52
+	android:theme
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:10:13-50
+	android:name
+		ADDED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml:9:13-46
 uses-sdk
 INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/zhouchao/vagrant/web/weex-plugin/device/android/library/src/main/AndroidManifest.xml

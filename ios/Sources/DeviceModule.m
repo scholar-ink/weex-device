@@ -12,7 +12,8 @@
 @implementation DeviceModule
 
 WX_PlUGIN_EXPORT_MODULE(device, DeviceModule)
-WX_EXPORT_METHOD(@selector(show))
+WX_EXPORT_METHOD(@selector(postNotification:params:))
+@synthesize weexInstance;
 
 /**
  create actionsheet
@@ -20,11 +21,16 @@ WX_EXPORT_METHOD(@selector(show))
  @param options items
  @param callback
  */
--(void)show
+-(void)postNotification:(NSString *)eventName params:(NSDictionary *)params
 {
-    UIAlertView *alertview = [[UIAlertView alloc] initWithTitle:@"title" message:@"module device is created sucessfully" delegate:self cancelButtonTitle:@"cancel" otherButtonTitles:@"ok", nil];
-    [alertview show];
-    
+    NSLog(@"fireGlobalEvent%@",eventName);
+    if (!params){
+        params = [NSDictionary dictionary];
+    }
+    NSDictionary * userInfo = @{
+                                @"param":params
+                                };
+    [[NSNotificationCenter defaultCenter] postNotificationName:eventName object:self userInfo:userInfo];
 }
 
 @end

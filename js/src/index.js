@@ -1,19 +1,23 @@
-const Device = {
-  show() {
-      alert("module Device is created sucessfully ")
+const device = {
+  postNotification(eventName,params) {
+    alert(eventName)
+    var evt = new Event(eventName)
+    evt.data = params
+    document.dispatchEvent(evt)
+  },
+  createButton(){
+
   }
 };
-
-
 const meta = {
-   Device: [{
+   device: [{
     name: 'show',
     args: []
   }]
 };
 
 function init(weex) {
-  weex.registerModule('Device', device, meta);
+  weex.registerModule('device', device, meta);
 }
 
 export default {

@@ -1,4 +1,4 @@
-// NOTE: for vue2.0 and platform:web only.
+// { "framework": "Vue" }
 
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -49,7 +49,7 @@
 
 	"use strict";
 
-	var _src = __webpack_require__(10);
+	var _src = __webpack_require__(7);
 
 	var _src2 = _interopRequireDefault(_src);
 
@@ -63,7 +63,7 @@
 
 /***/ }),
 
-/***/ 10:
+/***/ 7:
 /***/ (function(module, exports) {
 
 	'use strict';
@@ -71,21 +71,24 @@
 	Object.defineProperty(exports, "__esModule", {
 	  value: true
 	});
-	var Device = {
-	  show: function show() {
-	    alert("module Device is created sucessfully ");
-	  }
+	var device = {
+	  postNotification: function postNotification(eventName, params) {
+	    alert(eventName);
+	    var evt = new Event(eventName);
+	    evt.data = params;
+	    document.dispatchEvent(evt);
+	  },
+	  createButton: function createButton() {}
 	};
-
 	var meta = {
-	  Device: [{
+	  device: [{
 	    name: 'show',
 	    args: []
 	  }]
 	};
 
 	function init(weex) {
-	  weex.registerModule('Device', device, meta);
+	  weex.registerModule('device', device, meta);
 	}
 
 	exports.default = {

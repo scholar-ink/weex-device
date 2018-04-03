@@ -24,12 +24,12 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
@@ -40,20 +40,20 @@
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/wxt_icon_fps.png",
         "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/weex_analyzer-0.1.0.5.aar/ea65f12286bc017b2e755e966f580374/res/drawable-xxhdpi-v4/wxt_icon_fps.png"
     },
     {
-        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/zhouchao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/69e0a858f7bdf6e25ebfd516f68c2c20/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/zhouchao/vagrant/web/weex-plugin/device/playground/android/app/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png",

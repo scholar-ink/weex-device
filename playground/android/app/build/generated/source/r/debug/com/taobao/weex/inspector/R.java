@@ -8,7 +8,7 @@ package com.taobao.weex.inspector;
 
 public final class R {
     public static final class layout {
-        public static final int activity_main = 0x7f04001d;
-        public static final int activity_main2 = 0x7f04001e;
+        public static final int activity_main = 0x7f04001e;
+        public static final int activity_main2 = 0x7f04001f;
     }
 }

@@ -238,7 +238,7 @@ public class IndexActivity extends AbstractWeexActivity {
   private static final String TAG = "IndexActivity";
   private static final int CAMERA_PERMISSION_REQUEST_CODE = 0x1;
   private static final String DEFAULT_IP = "your_current_IP";
-  private static String sCurrentIp = DEFAULT_IP; // your_current_IP
+  private static String sCurrentIp = "192.168.0.118"; // your_current_IP
 
   private ProgressBar mProgressBar;
   private TextView mTipView;
